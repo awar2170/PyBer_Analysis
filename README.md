@@ -10,4 +10,8 @@ THe purpose of this analysis was to create a chart that would easily visualize t
 ![PyBer Summary Photo](https://github.com/awar2170/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
-- Urban has the most 
+- Urban cities consistently have the highest average total fare and rural has the lowest.  This makes sense since there are more drivers in urban areas and more demand in urban areas 
+
+- increasing drivers in the suburban areas may increase the amount of revenue the company gets
+
+- Recommend looking into possible reasons why there are peaks around late February and early April. 
